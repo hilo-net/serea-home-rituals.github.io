@@ -15,6 +15,7 @@ SEREA is a premium home-fragrance and ritual lifestyle storefront centered on ca
 - GitHub Pages-ready static files
 - Custom `404.html` and `robots.txt`
 - No external product-image dependencies
+- Three individual local journal photographs
 
 ## Collections
 - Light & Flame
@@ -42,6 +43,9 @@ HTML5 · CSS3 · Vanilla JavaScript · JSON · Local assets · GitHub Pages
 
 ## GitHub Pages
 Upload the contents of this project to a public repository, then enable Pages from the repository settings using the `main` branch and root folder.
+
+## V4 update
+The V4 update repairs only the three Journal image panels. The rest of the storefront structure and content remains unchanged.
 
 ## Status
 **In development — premium storefront prototype ready for deployment and customization.**

@@ -4,8 +4,8 @@
 
 SEREA is a premium home-fragrance and ritual lifestyle storefront centered on candles, diffusers, room fragrance, candle-care tools, incense accessories, and thoughtful gifts.
 
-## Included in V2
-- Premium responsive storefront
+## Included in V3
+- Premium responsive storefront with photographic collection panels
 - 12 individual local product photographs
 - Product filtering by collection
 - Demo shopping bag with item removal and total
@@ -30,6 +30,9 @@ SEREA is a premium home-fragrance and ritual lifestyle storefront centered on ca
 **Hours:** Monday–Friday · 9 AM–6 PM
 
 > The contact details are example project details and should be replaced before commercial launch.
+
+## V3 image fix
+The four collection panels now use four separate local lifestyle images for Light & Flame, Air & Scent, Ritual Tools, and Thoughtful Gifts. No other storefront section was changed.
 
 ## Image standard
 Each product has its own local JPG under `assets/products/`. The source catalog was split into separate files so product cards never depend on a collage, screenshot, or remote image URL.
